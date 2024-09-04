@@ -1,0 +1,22 @@
+[package]
+name = "experiments"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+ 
+[dependencies]
+rust_dtw_algorithm = { path = "../rust_dtw_algorithm" }
+plotters = "0.3.3"
+
+# [profile.fast_release]
+# inherits = "release"
+# codegen-units = 1
+# lto = true
+# opt-level = 3
+# # panic = "abort"
+# strip = true
+
+# [profile.profiling]
+# inherits = "release"
+# debug = true
