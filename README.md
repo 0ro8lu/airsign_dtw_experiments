@@ -31,7 +31,7 @@ Once you're all set just:
 ## Usage
 1. Running the experiments:
 ```bash
- cargo run --release -p experiments -- "/the/directory/where/you/have/the/siganture/data" "avg/min/max"
+ cargo run --release -p experiments -- "/the/directory/where/you/have/the/siganture/data" "avg/min/max" "full/reduced"
 ```
 
 ## Contributing
