@@ -9,8 +9,8 @@ which can be compiled to a dynamic library to be embedded in an Oculus Quest or 
 - [License](#license)
 
 ## Installation
-Unfortunately i'm not going to upload any release files, so you're going to have to compile this from source. If you don't already have the rust
-toolchain installed on your machine you can [Install it from here](https://www.rust-lang.org/tools/install) and arm yourself with a fresh copy.
+Unfortunately, I'm not going to upload any release files, so you'll have to compile this from source. If you don't already have the Rust
+toolchain installed on your machine, you can [Install it from here](https://www.rust-lang.org/tools/install) and arm yourself with a fresh copy. Once you're all set, just:
 Once you're all set just:
 
 1. Clone the repo:
