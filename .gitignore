@@ -1,0 +1,6 @@
+.DS_Store
+/target
+/experiments/.DS_Store
+/experiments/target
+/rust_dtw_algorithm/target
+/rust_dtw_algorithm/.DS_Store
